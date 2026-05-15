@@ -628,7 +628,7 @@ Este servicio es consumido por **auth_sys** para enviar:
 - ✉️ Correos de reseteo de contraseña
 - ✉️ Notificaciones de login sospechoso
 
-Ver documentación en [Auth-System README](../authentication-sys/README.md)
+Ver documentación en el repos authentication-sys.
 
 ---
 
