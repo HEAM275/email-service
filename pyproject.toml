@@ -1,0 +1,13 @@
+[project]
+name = "email-service"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "celery[redis]>=5.6.2",
+    "fastapi-mail>=1.6.1",
+    "fastapi[standard]>=0.129.0",
+    "python-dotenv>=1.2.1",
+    "uvicorn>=0.40.0",
+]
